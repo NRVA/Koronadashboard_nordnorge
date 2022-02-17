@@ -1,0 +1,2 @@
+# Koronadashboard_nordnorge
+koronadashboard
